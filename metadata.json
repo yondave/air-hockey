@@ -1,0 +1,6 @@
+{
+  "name": "CyberPuck 3D",
+  "description": "Multiplayer 3D air hockey and pinball arena with physics-based collisions, mushroom bumpers, and head-to-head local play.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
